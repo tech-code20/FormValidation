@@ -27,6 +27,6 @@ You can view the live demo [here](https://tech-code20.github.io/FormValidation/)
 -  Accessibility Improvements: Enhance accessibility with ARIA roles and focus management.
 -  API Integration: Integrate server-side validation via an API.
 -  Real-time Validation: Enable real-time validation as the user types into the form fields.
-## ontributing
+## Contributing
    Feel free to fork and submit pull requests to enhance the project.
     Let me know if you need further changes!
